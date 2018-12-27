@@ -12,6 +12,7 @@
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
     <name>${artifactId}</name>
+    <packaging>jar</packaging>
     <properties>
         <extend-utils.version>1.0.2-SNAPSHOT</extend-utils.version>
     </properties>
